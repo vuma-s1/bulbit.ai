@@ -1,0 +1,19 @@
+{
+  "name": "hoodie",
+  "version": "1.0.0",
+  "description": "A web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
